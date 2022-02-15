@@ -22,7 +22,7 @@
 
 * *git merge (branch name)* - **Команда для объединения веток**
 
-* *Git chekout (branch name)* - **Команда для перемещения между ветвами**
+* *Git checkout (branch name)* - **Команда для перемещения между ветвами**
 
 * *Git branch -d branch_name* - **Команда для удаления ветки**
 
